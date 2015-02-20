@@ -145,7 +145,7 @@ blockquote strong {
 
 
 .headback{
-	background-color: #9C6A8D;
+	background-color: #257E78;
 	color: white;
 	padding-left: 0px;
 	padding-right: 0px;
@@ -154,18 +154,18 @@ blockquote strong {
 }
 
 .aboutback{
-	background-color: #168A8F;
+	background-color: #F6B17F;
 	color:white;
 }
 
 
 .whatback{
-	background-color: #00DDD8;
+	background-color: #6C2D58;
 	color: white;
 }
 
 .doneback{
-	background-color: #665BC4;
+	background-color: #B2577A;
 	color: white;
 }
 
@@ -174,7 +174,7 @@ blockquote strong {
 }
 
 .contactcolor{
-	background-color: #82AFF9;
+	background-color: #40B8AF;
 	color: white;
 }
 
@@ -476,7 +476,7 @@ hr.bold {
 --- Intro
 ============================ */
 
-.hero { background: url(../img/hero-bg.jpg) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 200px 0 200px 0; height: auto; }
+.hero { background: url(../img/hero-bg.jpg) no-repeat top; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 200px 0 200px 0; height: auto; }
 .hero h1 { font-size: 40px; letter-spacing: 12px; margin: 40px 0 10px; font-weight: 900; color: #fff;}
 .hero h1 span { color: #a1a9b0; display: inline-block; }
 .hero p { font-size: 24px; font-weight: 400; color: #fefefe; }
